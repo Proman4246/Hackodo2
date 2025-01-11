@@ -1,5 +1,7 @@
 # Quick Loot Mode for Chest Panels
 
+[Click meeeee to download mee!!](https://github.com/Proman4246/Hackodo2/raw/refs/heads/main/PROJECT%203.mcpack)
+
 This JSON adds a "Quick Loot Mode" feature to small and large chest panels in Minecraft Bedrock Edition.
 
 ## Features
